@@ -8,6 +8,7 @@ This folder archives the original long-period-tremor (LPT) or very-long-period s
 Please see the details of the catalog construction in Niu and Song (2020, JVGR). The suffix of each file indicates the calendar year of the part of the catalog. 
 
 References
+
 [1] Niu, J. and Song, T.R.A., 2020. Real-time and in-situ assessment of conduit permeability through diverse long-period tremors beneath Aso volcano, Japan. Journal of Volcanology and Geothermal Research, 401, p.106964.
 
 [2] Niu, J. and Song, T.R.A., 2021. The Response of Repetitive Very‐Long‐Period Seismic Signals at Aso Volcano to Periodic Loading. Geophysical Research Letters, 48(9), p.e2021GL092728.
